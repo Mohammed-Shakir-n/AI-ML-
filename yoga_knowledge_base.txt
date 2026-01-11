@@ -1,0 +1,40 @@
+yoga_knowledge_base.txt
+TITLE: Benefits of Shavasana (Corpse Pose)
+Shavasana calms the brain and helps relieve stress and mild depression. It relaxes the body, reduces headache, fatigue, and insomnia. It helps lower blood pressure.
+SOURCE: Yoga Journal - Shavasana
+
+TITLE: Headstand (Sirsasana) Contraindications
+Avoid Headstand if you have back injury, headache, heart condition, high blood pressure, menstruation, or neck injury. Beginners should practice with a wall.
+SOURCE: Yoga Basics - Inversions
+
+TITLE: Pregnancy Yoga Guidelines
+During the first trimester, avoid hot yoga. In the second and third trimesters, avoid lying on your back for long periods. Avoid deep twists and inversions. Focus on opening the hips.
+SOURCE: Prenatal Yoga Guide
+
+TITLE: Cobra Pose (Bhujangasana)
+Strengthens the spine, stretches chest and lungs, shoulders, and abdomen. Firms the buttocks. Stimulates abdominal organs. Helps relieve stress and fatigue.
+SOURCE: Asana Index
+
+TITLE: Safety for Hernia Patients
+If you have a hernia, avoid core-intensive poses like Boat Pose (Navasana) or heavy lifting poses. Avoid straining the abdominal wall. Consult a doctor before practice.
+SOURCE: Medical Yoga Therapy
+
+TITLE: Glaucoma and Inversions
+People with glaucoma should avoid inversions like Headstand, Handstand, and Shoulderstand as they increase intraocular pressure. Downward dog should also be done with caution or avoided.
+SOURCE: Eye Health & Yoga
+
+TITLE: Warrior II (Virabhadrasana II)
+Strengthens and stretches the legs and ankles. Stretches the groins, chest, and lungs, shoulders. Stimulates abdominal organs. Increases stamina.
+SOURCE: Warrior Series Guide
+
+TITLE: Yoga for High Blood Pressure
+Avoid holding your breath (Kumbhaka) during pranayama. Avoid rapid transitions. Focus on cooling breaths like Sheetali.
+SOURCE: HBP Yoga Management
+
+TITLE: Paschimottanasana (Seated Forward Bend)
+Calms the brain and helps relieve stress and mild depression. Stretches the spine, shoulders, and hamstrings. Stimulates the liver, kidneys, ovaries, and uterus.
+SOURCE: Forward Bends 101
+
+TITLE: Introduction to Pranayama
+Pranayama is the practice of breath control. It connects the body and mind. Common techniques include Ujjayi (Victorious Breath) and Nadi Shodhana (Alternate Nostril Breathing).
+SOURCE: Breathing Foundations
